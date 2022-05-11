@@ -1,0 +1,77 @@
+.post{
+    background-color: white;
+    max-width: 500px;
+    border: 1px solid lightgray;
+    margin-bottom: 45px;
+    margin-left:950px;
+
+}
+
+.post_img {
+    width: 100%;
+    object-fit: contain;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+
+}
+
+
+.post_text{
+    font-weight: normal;
+    /* padding: 20px 10px; */
+}
+
+.post_headerpart{
+    display: flex;
+    align-items: center;
+    padding: 20px 10px;
+}
+
+.post_avatar{
+    margin-right: 10px;
+    object-fit: contain;
+}
+
+.post_comment_box{
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.Post_comment{
+    flex: 1;
+    padding: 10px;
+
+}
+
+.Comment_btn{
+    flex: 0;
+    
+
+}
+
+.posttt{
+    padding: 20px;
+}
+
+.time{
+    /* margin-bottom: 10px; */
+    border-bottom: 1px solid lightgray;
+}
+.delete{
+    flex: 1;
+    
+}
+.userImg{
+      height: 45px;
+      border-radius: 75px;
+  }
+
+.userlike{
+    height: 30px;
+    border-radius: 75px;
+}
+
+  .span{
+      width: 30px;
+  }

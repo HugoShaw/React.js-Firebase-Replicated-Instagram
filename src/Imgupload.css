@@ -1,0 +1,6 @@
+.image_upload{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    /* margin-left :auto; */
+}

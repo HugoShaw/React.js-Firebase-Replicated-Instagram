@@ -1,0 +1,23 @@
+.namepart{
+    /* display:flex; */
+    flex-direction:column;
+    /* margin-left: 200px ; */
+    /* object-fit: contain; */
+    border-bottom: 1px solid lightgray;
+    height: 90px;
+    width: 600px;
+    align-items: center;
+}
+
+.hh1{
+  margin-left: 330px;
+}
+.hh5{
+    margin-left: 335px;
+}
+
+.rowpart{
+    flex-direction:row;
+    object-fit: contain;
+    display: flex;
+}

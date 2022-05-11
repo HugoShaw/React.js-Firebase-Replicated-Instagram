@@ -1,0 +1,39 @@
+* {
+  margin:0;
+}
+
+.Apps {
+  /* background-color: #fafafa; */
+  background-image: url("https://cdn.pixabay.com/photo/2016/05/24/16/48/mountains-1412683_960_720.png");
+  /* height: 100vh; */
+  background-repeat:repeat-y
+
+}
+
+.app_header{
+  background-color: white;
+  position: sticky;
+  top: 0;
+  object-fit: contain;
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+  display: flex;
+  justify-content: space-between;
+}
+
+.signupimg{
+  max-width: 50px;
+}
+
+.signup{
+  display: flex;
+  flex-direction: column;
+}
+.postcss{
+  padding: 20px;;
+}
+
+.fileup{
+  margin-left:970px;
+}
+
